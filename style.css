@@ -1,0 +1,28 @@
+body{
+	background: url("bg.jpg");
+	background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+	background-color: rgb(192, 192, 192, 0.9);background-blend-mode: overlay;
+	padding:5px;
+}
+
+h1{
+	text-align:center;
+	color: peachpuff;
+}
+
+img{
+	width:50%;
+	height:50%;
+}
+
+h5{
+	text-align:center;
+	background-color: lightgrey;
+ 	color:whitesmoke;
+ 	padding:30px;
+}
